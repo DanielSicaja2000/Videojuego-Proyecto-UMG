@@ -4,7 +4,7 @@ Repositorio del Grupo #3 del curso de Desarrollo Web - UMG
 
 ##FRONT-END
 ###Tecnologias Utilizadas:
-   - ![Javascript]([https://github.com/usuario/repositorio/blob/main/ruta-de-la-imagen.png](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png))
+   - ![Javascript](https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png)
 
 
 
