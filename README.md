@@ -4,7 +4,7 @@ Repositorio del Grupo #3 del curso de Desarrollo Web - UMG
 
 ##FRONT-END
 ###Tecnologias Utilizadas:
-   - ![Javascript](https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png)
+   - <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="Logo JS" width="400"/>
 
 
 
